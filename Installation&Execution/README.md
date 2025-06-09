@@ -9,7 +9,7 @@
 
 ---
 
-## 📸 시연 예시 (추후 이미지 삽입 가능)
+## 📸 시연 예시 (추후 이미지 삽입)
 
 > `images/circuit_diagram.png`  
 > `images/demo.gif`  
